@@ -1,0 +1,210 @@
+.background{
+    background:url("https://img.freepik.com/free-photo/business-finance-employment-female-successful-entrepreneurs-concept-confident-businesswoman-glasses-white-suit-ready-meeting-smiling-pleased-standing-determined_1258-98878.jpg?w=2000")no-repeat;
+    height:100vh;
+    width:100vw;
+    background-size:cover;
+    text-align:right;
+}
+
+.menu{
+    width:100%;
+    float:right;
+    height:40px;
+    margin-bottom:230px;
+}
+ul{
+    float: right;
+    display:flex;
+    justify-content:right;
+    align-items: right;
+    margin-right: 40px;
+
+}
+ul li{
+    list-style: none;
+    margin-left:30px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color:crimson;
+    font-family: Arial;
+    font-weight: bold;
+    
+
+}
+ul li a:hover{
+    color:blueviolet;
+}
+.head{
+    
+    font-family: 'sans-serif';
+    text-align: right;
+    margin-right: 200px;
+    font-size:65px;
+    margin-left: 55%;
+    font-weight: bold;
+    color: blueviolet;
+}
+.para{
+
+    font-family: 'sans-serif';
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 50%;
+    text-align: right;
+    margin-right: 190px;
+    color:blueviolet;
+}
+.button{
+    background-color:crimson;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    height:35px;
+    width:110px;
+    border-radius:3px;
+    border-width: 0px;
+    margin-right: 23%;
+    text-decoration: none;
+
+}
+button a{
+    text-decoration: none;
+    color:white;
+    display:block;
+}
+button a:hover{
+    color:white;
+    background-color: blueviolet;
+    transform: scale(1.2);
+}
+.background2{
+    background-color:whitesmoke;
+    height:110vh;
+    width:100vw;
+    background-size: cover;
+}
+.img1{
+    margin-top:3%;
+    margin-left: 100px;
+    margin-right: 50px;
+    display: block;
+    border-radius: 65%;
+    width: 510px;
+    height: 500px;
+}
+.heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size:55px;
+    color:blueviolet;
+    padding-top: 3%;
+    font-weight: bold;
+    text-decoration: none;
+}
+.divEle{  
+    margin-top:-1%;
+    margin-left: 15%;
+    margin-bottom: 3%;
+    margin-right:170px;
+    width: 1500px;
+    text-align :center;
+}
+.shead{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    margin-top: -500px;
+    width: -1100px;
+    text-align: center;
+    color: coral;
+
+}
+.shead1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    margin-bottom:30px;
+    margin-top: 6px;
+    padding-top:60px;
+    color: coral;
+}
+.paragraph{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-right: 15px;
+    
+}
+
+
+.heading3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    padding-left: 26%;
+    margin-top: 0%;
+    padding-top: 0%;
+    margin-left:40px;
+}
+.paragraph1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    padding-right: 25%;
+    margin-left:50px;
+}
+.background5{
+    background-color:whitesmoke;
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+.source{
+    height: 500px;
+    width:550px;
+    margin-left: 16%;
+    margin-right: 20px;
+    border-top-left-radius:550px ;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius:550px ;
+    border-bottom-right-radius:20px ;
+    float: left;
+}
+.icons{
+    text-align: center;
+}
+    .icons a{
+        text-decoration: none;
+        color: black;
+        text-align: center;
+    }
+    
+    .icons ion-icon{
+        color: black;
+        font-size: 60px;
+        padding-left: 60px;
+        text-align: center;
+        padding-top: 50px;
+    }
+    
+    .icons ion-icon:hover{
+        color:darkorchid;
+    }
+
+.buttons{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    height:35px;
+    width:90px;
+    background-color: black;
+    color:white;
+    border-width:0px;
+    border-radius: 3px;
+    margin-top:0px;
+    margin-left: 80px;
+    text-decoration: none;
+}
+
+
+
+
+
+

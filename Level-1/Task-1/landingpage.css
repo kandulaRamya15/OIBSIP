@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.root
+{
+  --text:2rem;
+}
+.Hero-section
+{
+    min-height: 100vh;
+    background: url("https://images.unsplash.com/photo-1585435557343-3b092031a831?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVkaWNhbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.navbar 
+{
+    display:flex;
+    justify-content: space-between;
+    height: 15vh;
+    padding: 1rem 1.5rem;
+    color:crimson;
+ 
+}
+
+.navbar ul
+{
+    list-style: none;
+}
+.navbar ul li
+{
+    display: inline-block;
+    margin-left: 2rem;
+    font-size: var(--text);
+    border-radius: 22%;
+    background-position: 23%;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid transparent;
+}
+.navbar ul li a:hover{
+    border-bottom: 2px solid white;
+}
+.Hero-text
+{
+    color:white;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Hero-text button
+{
+    color:rgba(255, 255, 255, 0.897);
+    background-color:rgb(130, 178, 230);
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight:700;
+    padding:0.9rem 1.5rem; 
+    margin-top: 15px;
+    margin: o.6 auto;
+    display: block;
+    transition: opacity 280ms linear;
+    border-width: 0px;
+}
+.Hero-text button:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+}
+.Hero-text h2
+{
+    font-size:2rem;
+    color:white;
+}
+.Hero-text p{
+    font-size:1.5rem;
+    
+}
+    
+
